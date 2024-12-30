@@ -1,14 +1,22 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Nasim Reja!
 
-Welcome to my GitHub profile! I'm a passionate developer with a knack for building impactful projects and learning new technologies.  
+Welcome to my GitHub profile! I'm a passionate developer with a knack for building impactful projects and constantly learning new technologies.  
 
 ---
 
 ## 👨‍💻 About Me:
-- 🔭 Currently working on [Project Name](#)  
-- 🌱 Exploring **Machine Learning** and **Blockchain Development**  
-- 💬 Ask me about **Web Development**, **Python**, or **React**  
+- 🔭 Currently working on **E-commerce platforms** and **Booking App**(#)  
+- 🌱 Exploring **Full Stack Development** and **Data Analytics**  
+- 💬 Ask me about **Frontend Web Development**, **Java**, **Python**, or **React**  
 - 📫 Reach me at: [your_email@example.com](mailto:your_email@example.com)  
+
+---
+
+### 🚀 Skills & Technologies
+- **Languages**: Python, JavaScript, Java, C
+- **Frontend**: React, Redux, Tailwind CSS, HTML, CSS
+- **Databases**: MySQL, Firebase, excel
+- **Other Tools**: UI Design tools, Graphics Design tools
 
 ---
 
@@ -31,10 +39,8 @@ An API-powered currency converter with real-time exchange rates.
 ---
 
 ## 📫 Connect With Me:
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
-- Twitter: [Your Twitter](https://twitter.com/yourprofile)
-
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/nasim-reja-mondal-404141225/)
+- Email: [your-rejanasim611@gmail.com](mailto:your-rejanasim611@gmail.com)
 ---
 
 ✨ Happy Coding!
