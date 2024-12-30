@@ -32,12 +32,6 @@ An API-powered currency converter with real-time exchange rates.
 
 ---
 
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me:
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/nasim-reja-mondal-404141225/)
 - Email: [your-rejanasim611@gmail.com](mailto:your-rejanasim611@gmail.com)
