@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 - 🔭 Currently working on **E-commerce platforms** and **Booking App**(#)  
 - 🌱 Exploring **Full Stack Development** and **Data Analytics**  
 - 💬 Ask me about **Frontend Web Development**, **Java**, **Python**, or **React**  
-- 📫 Reach me at: [your_email@example.com](mailto:your_email@example.com)  
+- 📫 Reach me at: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)  
 
 ---
 
