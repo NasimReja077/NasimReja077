@@ -33,8 +33,8 @@ An API-powered currency converter with real-time exchange rates.
 ---
 
 ## 📫 Connect With Me:
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/nasim-reja-mondal-404141225/)
-- Email: [your-rejanasim611@gmail.com](mailto:your-rejanasim611@gmail.com)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nasim-reja-mondal-404141225/)
+- Email: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)
 ---
 
 ✨ Happy Coding!
