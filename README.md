@@ -217,33 +217,20 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 
 ---
 
-
 ### 🏅 Accolades
-- 🥇 **Top Performer** at Celebal Technologies Internship for React.js mastery.
-- 🎤 **Research Showcase** at 13th ICCET 2025: “HEALTHGUIDE: A FITNESS CHATBOT WITH NLP” (Samarkand State University).
-- 📜 **NPTEL Elite Certification** in IoT & Industry 4.0 from IIT Kharagpur.
-- 🎓 **Academic Standout**: B.C.A. CGPA 8.70/10, ranked among top graduates at MAKAUT.
+
+- 🥇 **Top Performing Intern – React.js**, Celebal Technologies  
+  Recognized for consistent performance, rapid skill adoption, and delivering production-grade frontend solutions during a high-impact React.js internship.
+
+- 🎤 **Paper Presented at 13th ICCET 2025**  
+  Presented **“HEALTHGUIDE: A FITNESS CHATBOT WITH NLP”** at the **International Conference on Contemporary Engineering & Technology**, in collaboration with **Samarkand State University** – showcasing applied NLP in AI health assistants.
+
+- 📜 **NPTEL Elite Certification – IoT & Industry 4.0**  
+  Awarded by **IIT Kharagpur**, highlighting excellence in understanding industrial automation, smart systems, and connected technologies in modern industries.
 
 ---
 
-### 📚 Educational Journey
-- **🎓 Master of Computer Applications (M.C.A.)**  
-  *Techno Main Salt Lake, MAKAUT*  
-  *2023 – 2025 | CGPA: 6.68/10 (Expected)*  
 
-- **🎓 Bachelor of Computer Applications (B.C.A.)**  
-  *Techno India, MAKAUT*  
-  *2020 – 2023 | CGPA: 8.70/10*  
-
-- **📘 Higher Secondary (12th - PCM)**  
-  *Hindu School, WBCHSE*  
-  *2019 – 2020 | 61.40%*  
-
-- **📗 Secondary Education (10th)**  
-  *Modern School, WBBSE*  
-  *2017 – 2018 | 59.57%*  
-
----
 
 ### 📊 GitHub Analytics
 <p align="center">
