@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#0e75b6">Nasim Reja Mondal</span></h1>
-<h3 align="center">💻 Full-Stack MERN Developer | 🚀 React.js Intern @CelebalTech | 🎯 Aspiring SDE (Full-Time)</h3>
+h1 align="center">👋 Hello World, I'm <span style="color:#0e75b6">Nasim Reja Mondal</span></h1>
+<h3 align="center">💻 Full-Stack MERN Developer | 🧠 Ex-React.js Intern @Celebal Technologies | 🔍 Fresher Actively Seeking Full-Time SDE Roles </h3>
 
 <p align="center">
   <a href="https://github.com/NasimReja077" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=NasimReja077&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=NasimReja077&label=Profile%20Views&color=0e75b6&style=flat-square" alt="GitHub Profile Views" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybDV4cWpzbGFreHJtcDUwNzV1MXU2cjRjZGV4ejJlamcxazdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200" alt="Developer at Work" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybDV4cWpzbGFreHJtcDUwNzV1MXU2cjRjZGV4ejJlamcxazdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200" alt="Developer GIF" />
 </p>
 
 ---
