@@ -282,11 +282,41 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 
 ---
 
+### 📊 GitHub Analytics
 
-### 💡 Thought of the Day
-> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NasimReja077&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="48%" alt="Nasim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasimReja077&layout=compact&theme=github_dark&langs_count=8" width="48%" alt="Top Languages Used" />
+</p>
 
 ---
+
+### 👾 Contribution Timeline
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+  </picture>
+</p>
+
+---
+
+### 📈 Visitor Insights
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/NasimReja077/count.svg?label=Visitors&color=0e75b6&style=flat-square" alt="Profile Visitor Counter" />
+</p>
+
+---
+
+### 💬 Thought of the Day
+
+<p align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em> – <strong>Cory House</strong></p>
+
+---
+
 
 ### 🎯 Career Vision
 I aspire to harness my full-stack expertise to design transformative, user-centric applications. My ambitions include contributing to open-source ecosystems, collaborating with innovative teams, and evolving as an SDE in a tech-forward environment.
