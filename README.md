@@ -114,3 +114,100 @@ I’m a passionate Full-Stack Developer with expertise in the MERN stack, dedica
   *Highlighted at*: 13th ICCET 2025 (Samarkand State University)  
   *Tech Stack*: Python, Flask, NLTK, PyTorch, HTML, CSS  
   *Status*: Completed  
+
+- 🔹 **[E-Bharat – Advanced E-commerce Platform](https://github.com/NasimReja077/E-Commerce-Store)**  
+  > A robust e-commerce solution with dynamic cart functionality, advanced filtering, Razorpay integration, and Firebase authentication.  
+  *Tech Stack*: React.js, Tailwind CSS, Redux Toolkit, Razorpay, Firebase  
+  *Status*: In Progress  
+
+- 🔹 **[Currency Converter API](https://github.com/NasimReja077/Currency-Converter)**  
+  > A lightweight, real-time currency conversion API designed for global accessibility.  
+  *Tech Stack*: Flask, Python  
+  *Status*: In Progress  
+
+---
+
+### 🏅 Achievements
+- 🥇 **Top Performer** at Celebal Technologies Internship for outstanding React.js contributions.
+- 🎤 **Presented Research** at 13th ICCET 2025: “HEALTHGUIDE: A FITNESS CHATBOT WITH NLP” (Samarkand State University).
+- 📜 **NPTEL Elite Certification** in IoT & Industry 4.0 from IIT Kharagpur.
+- 🎓 **Academic Distinction**: Achieved CGPA of 8.70/10, ranking among top B.C.A. graduates at MAKAUT.
+
+---
+
+### 📚 Academic Background
+- **🎓 Master of Computer Applications (M.C.A.)**  
+  *Techno Main Salt Lake, MAKAUT*  
+  *2023 – 2025 | CGPA: 6.68/10 (Expected)*  
+
+- **🎓 Bachelor of Computer Applications (B.C.A.)**  
+  *Techno India, MAKAUT*  
+  *2020 – 2023 | CGPA: 8.70/10*  
+
+- **📘 Higher Secondary (12th - PCM)**  
+  *Hindu School, WBCHSE*  
+  *2019 – 2020 | 61.40%*  
+
+- **📗 Secondary Education (10th)**  
+  *Modern School, WBBSE*  
+  *2017 – 2018 | 59.57%*  
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NasimReja077&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasimReja077&layout=compact&theme=dark&hide_border=false" width="48%" alt="Top Languages" />
+</p>
+
+---
+
+### 👾 Contribution Journey
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NasimReja077/NasimReja077/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NasimReja077/NasimReja077/output/pacman-contribution-graph.svg">
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/NasimReja077/NasimReja077/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
+### 🌐 Stay Connected
+<p align="center">
+  <a href="https://www.linkedin.com/in/nasim-reja-mondal-404141225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rejanasim611@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/NasimReja077">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### 📈 Visitor Tracker
+<p align="center">
+  <img src="https://profile-counter.glitch.me/NasimReja077/count.svg?label=Visitors&color=0e75b6" alt="Visitor Counter" />
+</p>
+
+---
+
+### 💡 Inspirational Quote
+> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+
+---
+
+### 🎯 Career Vision
+I’m driven to harness my full-stack skills to create impactful, user-focused solutions. My aspirations include contributing to open-source initiatives, collaborating with visionary teams, and pioneering technological advancements as an SDE.
+
+---
+
+### 📝 What’s Next?
+- ✨ **Discover More**: Dive into my [GitHub Repositories](https://github.com/NasimReja077?tab=repositories) for a deeper look at my work.
+- 📅 **Upcoming**: Expect new projects and skills in my next update—stay tuned!
+- 🤝 **Collaboration**: Open to connecting with mentors, peers, or potential employers!
+
+---
