@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nasim Reja Mondal</h1>
-<h3 align="center">A Passionate Full-Stack MERN Developer</h3>
+<h3 align="center">A Passionate Full-Stack MERN Developer | Seeking Full-Time SDE Roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasimreja077&label=Profile%20views&color=0e75b6&style=flat" alt="nasimreja077" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasimreja077" alt="nasimreja077" /></a> </p>
 
 - 🌱 I’m currently learning **Angular.js, TypeScript, Next.js, Docker, Generative AI**
-- 💬 Ask me about **React.js, MERN Stack, Java, Python**
+- 💬 Ask me about **React.js, MERN Stack, Java, Python, Frontend Development**
 - 📫 How to reach me **rejanasim611@gmail.com**
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing)
-- ⚡ Fun fact: I turn coffee into code and solve real-world problems!
+- ⚡ Fun fact: I transform coffee into code and love solving real-world challenges!
+- ⏰ Last updated: 10:53 PM IST, Friday, June 27, 2025
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nasim-reja-mondal-404141225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:rejanasim611@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,21 +53,24 @@
 
 -----------------------------------
 # 💫 About Me:
-I'm a full-stack web developer and freelancer eager to secure full-time SDE roles as a fresher.  
-🔭 **Currently working on**: E-commerce platforms and booking apps.  
-🌱 **Exploring**: Full-Stack Development, Data Analytics, and UI/UX Design.  
-💬 **Ask me about**: Frontend Web Development, Java, Python, React, or MERN Stack.  
-📫 **Reach me**: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)
+I’m a dedicated full-stack web developer and freelancer, passionate about crafting secure, scalable web applications using the MERN stack. As a fresher, I’m eager to land full-time SDE roles where I can contribute my skills and grow.  
+- 🔭 **Currently working on**: E-commerce platforms, booking apps, and real-time chat systems.  
+- 🌱 **Exploring**: Full-Stack Development, Data Analytics, UI/UX Design, and emerging technologies like Generative AI.  
+- 💬 **Ask me about**: React.js, Node.js, MongoDB, Java, Python, or any MERN-related queries.  
+- 📫 **Reach me**: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)  
+- 🎯 **Goal**: To build innovative solutions that impact lives positively.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasim-reja-mondal-404141225/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rejanasim611@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rejanasim611@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/NasimReja077)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
@@ -79,8 +84,60 @@ I'm a full-stack web developer and freelancer eager to secure full-time SDE role
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# 🚀 Professional Experience
+- **Java Developer Intern**  
+  *Plasmid Innovation, Karnataka (Remote)*  
+  *May 2024 - July 2024*  
+  - Developed real-time backend modules using Core Java, enhancing code modularity and logic structure.  
+  - Applied software engineering principles to optimize development workflows.
+
+- **Frontend Developer Intern - React.js**  
+  *Celebeal Technologies Private Limited, Jaipur (Remote)*  
+  *May 2024 - July 2024*  
+  - Built scalable React applications, including a Spotify clone and a dynamic e-commerce platform.  
+  - Integrated Razorpay payment gateway and improved team efficiency with agile methodologies.
+
+# 💻 Projects
+### [Real-Time Chat Application](https://github.com/NasimReja077/Real-Time-Chat-App)
+- A secure real-time 1:1 chat app built with MERN stack, featuring JWT authentication, image sharing, and live communication.  
+- **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Socket.io  
+- **Status**: Completed  
+
+### [Fitness Chatbot - AI-Powered Conversational Assistant](https://github.com/NasimReja077/Fitness-Chatbot)
+- An intelligent fitness chatbot using Flask and NLTK with 95% accuracy for natural language conversation.  
+- **Tech Stack**: Python, Flask, NLTK, PyTorch, HTML, CSS  
+- **Status**: Completed  
+- **Achievement**: Presented at the 13th ICET 2025 with Samarkand State University.
+
+### [E-Bharat - Advanced E-commerce Store](https://github.com/NasimReja077/E-Bharat-Ecommerce)
+- A full-featured e-commerce platform with product filtering, dynamic cart management, and responsive design.  
+- **Tech Stack**: React.js, Redux Toolkit, Tailwind CSS, Firebase, Razorpay  
+- **Status**: In Progress  
+
+### [Currency Converter API](https://github.com/NasimReja077/Currency-Converter)
+- An API-powered currency converter with real-time exchange rates.  
+- **Tech Stack**: Flask, Python  
+- **Status**: In Progress  
+
+# 🎓 Education
+- **Master of Computer Applications (M.C.A.)**  
+  *Techno Main Salt Lake, Kolkata (MAKAUT)*  
+  *CGPA: 6.8/10, Expected August 2023*  
+
+- **Bachelor of Computer Applications (B.C.A.)**  
+  *Techno India, Kolkata (MAKAUT)*  
+  *CGPA: 8.70/10, September 2020 - August 2023*  
+
+- **Higher Secondary (12th - PCM)**  
+  *Hindu School, WBCHSE*  
+  *Percentage: 61.40%, January 2019 - July 2020*  
+
+- **Secondary Education (10th)**  
+  *Modern School, WBBSE*  
+  *Percentage: 59.57%, January 2017 - March 2018*  
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasimreja077&show_icons=true&theme=dark)  
@@ -119,7 +176,7 @@ I'm a full-stack web developer and freelancer eager to secure full-time SDE role
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -142,7 +199,7 @@ I'm a full-stack web developer and freelancer eager to secure full-time SDE role
 
 ###
 
-<p align="left">🔭 **Currently working on**: E-commerce platforms and Booking Apps<br>🌱 **Exploring**: Full-Stack Development, Data Analytics, UI/UX<br>💬 **Ask me about**: Frontend Development, Java, Python, React<br>📫 **Reach me at**: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)</p>
+<p align="left">🔭 **Currently working on**: E-commerce platforms, Booking Apps, and AI-driven solutions<br>🌱 **Exploring**: Full-Stack Development, Data Analytics, UI/UX, Generative AI<br>💬 **Ask me about**: Frontend Development, Java, Python, React<br>📫 **Reach me at**: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)</p>
 
 ###
 
@@ -170,3 +227,16 @@ I'm a full-stack web developer and freelancer eager to secure full-time SDE role
 <div align="center">
   <img src="https://profile-counter.glitch.me/NasimReja077/count.svg?"  />
 </div>
+
+###
+
+# 🏆 Achievements
+- Earned NPTEL Elite Certificate for IoT & Industry 4.0 from IIT Kharagpur.
+- Ranked among top performers in B.C.A. at MAKAUT.
+- Recognized as a Top Performer at Celebeal Technologies Internship.
+- Presented Fitness Chatbot at the 13th ICET 2025.
+
+# 🎯 Career Aspiration
+I aim to leverage my full-stack expertise to develop cutting-edge applications, collaborate with innovative teams, and contribute to open-source projects that make a difference.
+
+---
