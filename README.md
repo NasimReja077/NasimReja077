@@ -174,30 +174,49 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 
 ---
 
-
 ### 📌 Highlighted Projects
-- 🔹 **[BartaLap – Real-Time Chat App](https://github.com/NasimReja077/Barta-LAP-ChatApp)**  
-  > A feature-packed 1:1 chat application with JWT authentication, Cloudinary image support, and real-time messaging.  
-  *Tech Stack*: React.js, Node.js, Express.js, MongoDB, Socket.io, Tailwind CSS  
-  *Status*: Completed  
 
-- 🔹 **[Fitness Chatbot](https://github.com/NasimReja077/ChatBot)**  
-  > An intelligent fitness advisor built with Flask and NLTK, delivering 95% accurate responses.  
-  *Spotlight*: Presented at 13th ICCET 2025 (Samarkand State University)  
-  *Tech Stack*: Python, Flask, NLTK, PyTorch  
-  *Status*: Completed  
+#### 🔹 [BartaLap – Real-Time Chat App](https://github.com/NasimReja077/Barta-LAP-ChatApp) · [🌐 Live Demo](https://barta-lap-chatapp.onrender.com/)
+> 💬 A fully functional 1-on-1 real-time messaging platform built with the **MERN stack**, enabling users to chat securely, share media, and stay connected.
 
-- 🔹 **[E-Bharat – E-Commerce Platform](https://github.com/NasimReja077/E-Commerce-Store)**  
-  > A robust e-commerce solution featuring dynamic carts, advanced filtering, Razorpay payments, and Firebase authentication.  
-  *Tech Stack*: React.js, Tailwind CSS, Redux Toolkit, Razorpay, Firebase  
-  *Status*: In Progress  
+- 🔐 Implements **JWT-based authentication**, user onboarding, and secure routing
+- 📷 Integrates **Cloudinary** for smooth image and media uploads
+- 🌙 Offers **dark/light mode**, message seen/unseen status, and typing indicators
+- 🔄 Real-time functionality powered by **Socket.io** and **Zustand**
+- 📱 Fully responsive UI crafted with **Tailwind CSS**
 
-- 🔹 **[Currency Converter API](https://github.com/NasimReja077/Currency-Converter)**  
-  > A lightweight Flask API providing real-time currency exchange rates.  
-  *Tech Stack*: Flask, Python  
-  *Status*: In Progress  
+**Tech Stack**: React.js, Node.js, Express.js, MongoDB, Zustand, Tailwind CSS, Socket.io, Cloudinary  
+**Status**: ✅ Completed & Deployed
 
 ---
+
+#### 🔹 [Fitness Chatbot – AI-Powered Health Assistant](https://github.com/NasimReja077/ChatBot)
+> 🤖 A conversational AI chatbot that provides personalized fitness guidance using natural language processing techniques.
+
+- 🧠 Built with **Flask** and **NLTK**, capable of answering queries with **95%+ accuracy**
+- 📝 Trained on custom datasets covering exercise, diet, and health advice
+- 🖥️ Frontend UI built with vanilla HTML, CSS, and JavaScript
+- 🏆 Presented at the **13th ICCET 2025**, hosted in collaboration with **Samarkand State University**
+
+**Tech Stack**: Python, Flask, NLTK, PyTorch, JavaScript, HTML, CSS  
+**Status**: ✅ Completed | Research Presented
+
+---
+
+#### 🔹 [E-Bharat – Scalable E-Commerce Platform](https://github.com/NasimReja077/E-Commerce-Store)
+> 🛒 A dynamic and secure full-stack e-commerce platform designed for modern shopping experiences with payments and authentication.
+
+- 🔍 Advanced **product filtering**, sorting, search, and list/grid views
+- 🛒 **Dynamic cart system**, price calculations, and real-time updates
+- 🔐 Uses **Firebase Auth** and **Razorpay integration** for checkout
+- 📦 State management with **Redux Toolkit** for a seamless user experience
+- 📱 Built with **responsive design** and modular React components
+
+**Tech Stack**: React.js, Tailwind CSS, Redux Toolkit, Firebase, Razorpay  
+**Status**: 🚧 In Progress | MVP Functional
+
+---
+
 
 ### 🏅 Accolades
 - 🥇 **Top Performer** at Celebal Technologies Internship for React.js mastery.
