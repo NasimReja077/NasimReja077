@@ -35,15 +35,9 @@ I'm **Nasim Reja Mondal**, a passionate and performance-driven **Full-Stack MERN
 💬 **Let's Talk About**  
 `React.js` • `Node.js` • `MongoDB` • `Express.js` • `JWT` • `Python` • `Java` • `REST APIs` • `Firebase` • `Flask`
 
-📫 **Contact Me**  
-- 📧 Email: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/nasim-reja-mondal](https://linkedin.com/in/nasim-reja-mondal)  
-- 📄 Resume: [Download Here](https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing)
-
 ⚡ **Fun Fact**  
 I turn ☕ into structured, scalable, and clean code — and I love debugging more than bugs love hiding.
 
-🕒 **Last Updated**: June 27, 2025 | 11:59 PM IST
 -----
 
 ### 🌐 Connect With Me
@@ -64,6 +58,7 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
     <img src="https://img.shields.io/badge/Unstop-%2300AEEF?logo=unstop&style=for-the-badge" alt="Unstop" />
   </a>
 </p>
+Resume: [Download Here](https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing)
 
 ---
 
