@@ -12,40 +12,39 @@
 </p>
 
 ---
-
-
-### 💡 About Me
-I’m a driven Full-Stack Web Developer and freelancer, mastering the MERN stack to craft secure, scalable, and innovative applications. As an enthusiastic fresher, I’m eager to launch my career as a Software Development Engineer (SDE), contributing to groundbreaking projects and growing with a forward-thinking team.
-
-- 🔭 **Currently Crafting**: E-Commerce Platforms, Booking Applications, Real-Time Chat Systems
-- 🌱 **Skill Expansion**: Next.js, Angular.js, TypeScript, Docker, Generative AI
-- 💬 **Discuss With Me**: React.js, Node.js, MongoDB, Python, Java, REST APIs, Flask
-- 📫 **Reach Out**: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)
-- 📄 **Resume**: [Download Here](https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing)
-- ⚡ **Fun Fact**: I transform ☕ into elegant, problem-solving code!
-- ⏰ **Last Refreshed**: 11:59 PM IST, Friday, June 27, 2025
-
----
-### 💡 About Me
-I’m a dedicated Full-Stack Developer with a strong foundation in the MERN stack, passionate about crafting secure, scalable, and user-friendly web applications. As a fresher, I’m excited to embark on a full-time Software Development Engineer (SDE) role to grow my skills and contribute to innovative projects.
-
-- 🔭 **Currently Working On**: Real-Time Chat Systems, E-Commerce Platforms, AI-Driven Solutions
-- 🌱 **Currently Learning**: Next.js, Angular.js, TypeScript, Docker, Generative AI
-- 💬 **Ask Me About**: React.js, Node.js, MongoDB, Python, Java, REST APIs, Flask
-- 📫 **Reach Me At**: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)
-- 📄 **Check My Resume**: [Download Here](https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing)
-- ⚡ **Fun Fact**: I turn ☕ into clean, efficient code while tackling real-world challenges!
-- ⏰ **Last Updated**: 11:15 PM IST, Friday, June 27, 2025
-
----
 ### 💡 About Me
 
-- 🔭 Working on: E-Commerce Platforms | Booking Apps | Real-Time Chat Systems  
-- 🌱 Learning: Next.js | TypeScript | Docker | Generative AI  
-- 💬 Ask me about: React, Node.js, MongoDB, Python, Java  
-- 📫 Reach me at: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)  
-- ⚡ Fun fact: I convert ☕ into clean, scalable code.
----------
+I'm **Nasim Reja Mondal**, a passionate and performance-driven **Full-Stack MERN Developer** with a solid foundation in computer science and real-world experience from internships at **Celebal Technologies** and **Plasmid Innovation**. As a **fresher**, I’m actively seeking a **full-time Software Development Engineer (SDE)** role where I can contribute meaningfully, grow alongside a talented team, and build impactful applications.
+
+💼 **Professional Summary**  
+- 🧠 Strong grasp of **MERN Stack** and software engineering principles  
+- 🛠️ Built scalable applications like chat apps, e-commerce platforms & fitness bots  
+- 👨‍💻 Self-motivated learner with experience in **remote internships**, Agile teams, and open-source collaboration  
+- 🏆 Recognized as a **Top Performer** at Celebal Tech React Internship
+
+🚧 **Currently Building**  
+- Real-Time Chat Applications (MERN + Socket.io)  
+- Full-Stack E-Commerce & Booking Platforms with secure payment integration  
+- AI-based tools like **Fitness Chatbot using NLP (Flask + NLTK)**  
+
+🚀 **Actively Learning**  
+- 🔷 Next.js, TypeScript, Docker  
+- 🤖 Generative AI APIs, LLM Integration  
+- 📱 Mobile-first responsive design, Cloud Deployment (Vercel/Render)
+
+💬 **Let's Talk About**  
+`React.js` • `Node.js` • `MongoDB` • `Express.js` • `JWT` • `Python` • `Java` • `REST APIs` • `Firebase` • `Flask`
+
+📫 **Contact Me**  
+- 📧 Email: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/nasim-reja-mondal](https://linkedin.com/in/nasim-reja-mondal)  
+- 📄 Resume: [Download Here](https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing)
+
+⚡ **Fun Fact**  
+I turn ☕ into structured, scalable, and clean code — and I love debugging more than bugs love hiding.
+
+🕒 **Last Updated**: June 27, 2025 | 11:59 PM IST
+-----
 
 ### 🌐 Connect With Me
 <p align="center">
