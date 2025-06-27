@@ -38,29 +38,33 @@ I'm **Nasim Reja Mondal**, a passionate and performance-driven **Full-Stack MERN
 ⚡ **Fun Fact**  
 I turn ☕ into structured, scalable, and clean code — and I love debugging more than bugs love hiding.
 
------
+---
 
 ### 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nasim-reja-mondal-404141225/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/nasim-reja-mondal-404141225/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-  <a href="mailto:rejanasim611@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  <a href="mailto:rejanasim611@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
-  <a href="https://github.com/NasimReja077">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  <a href="https://github.com/NasimReja077" target="_blank" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-    <img src="https://img.shields.io/badge/Naukri-%23FF5733?logo=naukri&style=for-the-badge" alt="Naukri" />
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank" title="Naukri Profile">
+    <img src="https://img.shields.io/badge/Naukri-%23FF5733.svg?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri Profile" />
   </a>
-  <a href="https://unstop.com/u/nasimmon78407" target="_blank">
-    <img src="https://img.shields.io/badge/Unstop-%2300AEEF?logo=unstop&style=for-the-badge" alt="Unstop" />
+  <a href="https://unstop.com/u/nasimmon78407" target="_blank" title="Unstop Profile">
+    <img src="https://img.shields.io/badge/Unstop-%2300AEEF.svg?style=for-the-badge&logo=unstop&logoColor=white" alt="Unstop Profile" />
+  </a>
+  <a href="https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing" target="_blank" title="Download Resume">
+    <img src="https://img.shields.io/badge/Resume-%2300C853.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
   </a>
 </p>
-Resume: [Download Here](https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing)
 
 ---
+
 
 ### 🛠️ Tech Arsenal
 <div align="center">
