@@ -1,29 +1,27 @@
-<h1 align="center">👋 Hi, I'm Nasim Reja Mondal</h1>
-<h3 align="center">🚀 Full-Stack MERN Developer | React.js Intern @CelebalTech | Open to Full-Time SDE Roles</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#0e75b6">Nasim Reja Mondal</span></h1>
+<h3 align="center">💻 Full-Stack MERN Developer | 🚀 React.js Intern @CelebalTech | 🎯 Aspiring SDE (Full-Time)</h3>
 
 <p align="center">
-  <a href="https://github.com/NasimReja077">
+  <a href="https://github.com/NasimReja077" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=NasimReja077&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybDV4cWpzbGFreHJtcDUwNzV1MXU2cjRjZGV4ejJlamcxazdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200" alt="Coding GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybDV4cWpzbGFreHJtcDUwNzV1MXU2cjRjZGV4ejJlamcxazdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200" alt="Developer at Work" />
 </p>
 
 ---
 
-🎓 MCA @ Techno Main Salt Lake (MAKAUT)  
-🏆 NPTEL Elite Certified (IoT & Industry 4.0 – IIT Kharagpur)  
-🛠️ Skills: React.js, Node.js, Express, MongoDB, Tailwind, Redux, JWT, REST API, Flask, NLP  
-🌟 Top Performer @ Celebal Technologies (React Internship)
+🌟 **Welcome to my GitHub!**  
+I'm a highly motivated Full-Stack Developer with hands-on experience building secure, scalable, and modern web applications using the **MERN stack**. Currently leveling up through real-world projects, internships, and collaborations.
 
-📌 Notable Projects:
-- 💬 **BartaLap** – Real-time MERN Chat App with JWT Auth, Image Sharing & Dark Mode  
-- 🛒 **E-Bharat** – Feature-Rich E-Commerce Store with Razorpay, Firebase Login  
-- 🤖 **Fitness Chatbot** – AI Chatbot for Personalized Fitness Advice (Flask + NLTK)
+🛠️ **Tech Stack**  
+`React.js` • `Node.js` • `Express.js` • `MongoDB` • `Redux Toolkit` • `Tailwind CSS` • `JWT` • `REST APIs` • `Socket.io` • `Firebase`
 
----
+📫 **Reach me on:**  
+🔗 [LinkedIn](https://linkedin.com/in/nasim-reja-mondal) | 📨 [Email](mailto:rejanasim611@gmail.com) | 💻 [Portfolio (Optional)](#)
+
 
 
 ### 💡 About Me
