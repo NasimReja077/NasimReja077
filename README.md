@@ -1,4 +1,4 @@
-h1 align="center">👋 Hello World, I'm <span style="color:#0e75b6">Nasim Reja Mondal</span></h1>
+<h1 align="center">👋 Hello World, I'm <span style="color:#0e75b6">Nasim Reja Mondal</span></h1>
 <h3 align="center">💻 Full-Stack MERN Developer | 🧠 Ex-React.js Intern @Celebal Technologies | 🔍 Fresher Actively Seeking Full-Time SDE Roles </h3>
 
 <p align="center">
@@ -13,16 +13,6 @@ h1 align="center">👋 Hello World, I'm <span style="color:#0e75b6">Nasim Reja M
 
 ---
 
-🌟 **Welcome to my GitHub!**  
-I'm a highly motivated Full-Stack Developer with hands-on experience building secure, scalable, and modern web applications using the **MERN stack**. Currently leveling up through real-world projects, internships, and collaborations.
-
-🛠️ **Tech Stack**  
-`React.js` • `Node.js` • `Express.js` • `MongoDB` • `Redux Toolkit` • `Tailwind CSS` • `JWT` • `REST APIs` • `Socket.io` • `Firebase`
-
-📫 **Reach me on:**  
-🔗 [LinkedIn](https://linkedin.com/in/nasim-reja-mondal) | 📨 [Email](mailto:rejanasim611@gmail.com) | 💻 [Portfolio (Optional)](#)
-
-
 
 ### 💡 About Me
 I’m a driven Full-Stack Web Developer and freelancer, mastering the MERN stack to craft secure, scalable, and innovative applications. As an enthusiastic fresher, I’m eager to launch my career as a Software Development Engineer (SDE), contributing to groundbreaking projects and growing with a forward-thinking team.
@@ -36,6 +26,26 @@ I’m a driven Full-Stack Web Developer and freelancer, mastering the MERN stack
 - ⏰ **Last Refreshed**: 11:59 PM IST, Friday, June 27, 2025
 
 ---
+### 💡 About Me
+I’m a dedicated Full-Stack Developer with a strong foundation in the MERN stack, passionate about crafting secure, scalable, and user-friendly web applications. As a fresher, I’m excited to embark on a full-time Software Development Engineer (SDE) role to grow my skills and contribute to innovative projects.
+
+- 🔭 **Currently Working On**: Real-Time Chat Systems, E-Commerce Platforms, AI-Driven Solutions
+- 🌱 **Currently Learning**: Next.js, Angular.js, TypeScript, Docker, Generative AI
+- 💬 **Ask Me About**: React.js, Node.js, MongoDB, Python, Java, REST APIs, Flask
+- 📫 **Reach Me At**: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)
+- 📄 **Check My Resume**: [Download Here](https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing)
+- ⚡ **Fun Fact**: I turn ☕ into clean, efficient code while tackling real-world challenges!
+- ⏰ **Last Updated**: 11:15 PM IST, Friday, June 27, 2025
+
+---
+### 💡 About Me
+
+- 🔭 Working on: E-Commerce Platforms | Booking Apps | Real-Time Chat Systems  
+- 🌱 Learning: Next.js | TypeScript | Docker | Generative AI  
+- 💬 Ask me about: React, Node.js, MongoDB, Python, Java  
+- 📫 Reach me at: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)  
+- ⚡ Fun fact: I convert ☕ into clean, scalable code.
+---------
 
 ### 🌐 Connect With Me
 <p align="center">
