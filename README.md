@@ -1,37 +1,27 @@
-<h1 align="center">Hi there 👋, I'm Nasim Reja Mondal!</h1>
-<h3 align="center">🚀 Passionate Full-Stack MERN Developer | Actively Pursuing Full-Time SDE Roles</h3>
+<h1 align="center">👋 Hi, I'm Nasim Reja Mondal</h1>
+<h3 align="center">🚀 Full-Stack MERN Developer | React.js Intern @CelebalTech | Open to Full-Time SDE Roles</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NasimReja077&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/NasimReja077">
+    <img src="https://komarev.com/ghpvc/?username=NasimReja077&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybDV4cWpzbGFreHJtcDUwNzV1MXU2cjRjZGV4ejJlamcxazdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200" alt="Coding Animation" />
-</p>
-
----
-<h1 align="center">Hi there 👋, I'm Nasim Reja Mondal!</h1>
-<h3 align="center">🚀 Enthusiastic Full-Stack MERN Developer | Eager for Full-Time SDE Opportunities</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NasimReja077&label=Profile%20views&color=0e75b6&style=flat" alt="NasimReja077" />
-</p>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybDV4cWpzbGFreHJtcDUwNzV1MXU2cjRjZGV4ejJlamcxazdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200" alt="Coding Animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybDV4cWpzbGFreHJtcDUwNzV1MXU2cjRjZGV4ejJlamcxazdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200" alt="Coding GIF" />
 </p>
 
 ---
-<h1 align="center">Hi there 👋, I'm Nasim Reja Mondal!</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | MERN Stack | Open to Full-Time SDE Roles</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NasimReja077&label=Profile%20views&color=0e75b6&style=flat" alt="nasimreja077" />
-</p>
+🎓 MCA @ Techno Main Salt Lake (MAKAUT)  
+🏆 NPTEL Elite Certified (IoT & Industry 4.0 – IIT Kharagpur)  
+🛠️ Skills: React.js, Node.js, Express, MongoDB, Tailwind, Redux, JWT, REST API, Flask, NLP  
+🌟 Top Performer @ Celebal Technologies (React Internship)
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybDV4cWpzbGFreHJtcDUwNzV1MXU2cjRjZGV4ejJlamcxazdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200" />
-</p>
+📌 Notable Projects:
+- 💬 **BartaLap** – Real-time MERN Chat App with JWT Auth, Image Sharing & Dark Mode  
+- 🛒 **E-Bharat** – Feature-Rich E-Commerce Store with Razorpay, Firebase Login  
+- 🤖 **Fitness Chatbot** – AI Chatbot for Personalized Fitness Advice (Flask + NLTK)
 
 ---
 
