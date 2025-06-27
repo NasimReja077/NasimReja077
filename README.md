@@ -10,6 +10,31 @@
 </p>
 
 ---
+<h1 align="center">Hi there 👋, I'm Nasim Reja Mondal!</h1>
+<h3 align="center">🚀 Enthusiastic Full-Stack MERN Developer | Eager for Full-Time SDE Opportunities</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NasimReja077&label=Profile%20views&color=0e75b6&style=flat" alt="NasimReja077" />
+</p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybDV4cWpzbGFreHJtcDUwNzV1MXU2cjRjZGV4ejJlamcxazdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200" alt="Coding Animation" />
+</p>
+
+---
+<h1 align="center">Hi there 👋, I'm Nasim Reja Mondal!</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | MERN Stack | Open to Full-Time SDE Roles</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NasimReja077&label=Profile%20views&color=0e75b6&style=flat" alt="nasimreja077" />
+</p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybDV4cWpzbGFreHJtcDUwNzV1MXU2cjRjZGV4ejJlamcxazdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200" />
+</p>
+
+---
+
 
 ### 💡 About Me
 I’m a driven Full-Stack Web Developer and freelancer, mastering the MERN stack to craft secure, scalable, and innovative applications. As an enthusiastic fresher, I’m eager to launch my career as a Software Development Engineer (SDE), contributing to groundbreaking projects and growing with a forward-thinking team.
