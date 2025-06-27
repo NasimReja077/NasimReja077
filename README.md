@@ -151,20 +151,29 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 
 ---
 
-
 ### 💼 Professional Milestones
-- **Java Developer Intern**  
-  *Plasmid Innovation | Remote | May 2024 – July 2024*  
-  - Engineered high-performance backend modules with Core Java, boosting efficiency by 15%.
-  - Enhanced code maintainability through object-oriented design principles.
 
-- **Frontend Developer Intern (React.js)**  
-  *Celebal Technologies Pvt. Ltd. | Remote | May 2024 – July 2024*  
-  - Developed scalable applications, including a Spotify clone and e-commerce platform, enhancing user experience.
-  - Implemented Razorpay integration and optimized state management with Redux Toolkit.
-  - Excelled in agile sprints, improving team delivery timelines by 20%.
+#### 🧩 Java Developer Intern  
+**Plasmid Innovation** — *Remote | May 2024 – July 2024*  
+- 🔨 Developed and optimized **core backend modules** using **Core Java**, leading to a measurable **15% improvement in system response times**.
+- 💡 Refactored legacy codebases by applying **OOP design patterns** (such as Singleton & Factory), increasing code **readability and reusability**.
+- 🛠️ Collaborated with senior developers to implement **modular services** in a layered architecture, enhancing long-term maintainability.
+- 🔄 Participated in **agile sprint planning, daily stand-ups, and peer code reviews**, building real-world collaboration and problem-solving skills.
 
 ---
+
+#### 💻 Frontend Developer Intern (React.js)  
+**Celebal Technologies Pvt. Ltd.** — *Remote | May 2024 – July 2024*  
+- 🚀 Engineered highly scalable and responsive web apps, including a **Spotify Clone** and a **feature-rich e-commerce platform** using **React.js**, **Tailwind CSS**, and **Redux Toolkit**.
+- 💳 Integrated **Razorpay Payment Gateway**, enabling seamless and secure checkout functionality across platforms.
+- 🧠 Leveraged **Zustand** and **Redux** to manage complex app states, improving app performance and reducing render cycles.
+- 🧪 Wrote reusable components and maintained **clean code architecture**, ensuring faster onboarding for team members and better testing coverage.
+- 📊 Used **Postman** and **RESTful APIs** to test and debug API endpoints, ensuring end-to-end functionality.
+- 🏅 Recognized as a **Top Performing Intern** for consistent contributions, fast learning, and initiative in solving frontend issues ahead of deadlines.
+- 📈 Contributed to **20% faster sprint deliveries** by streamlining UI workflows and improving developer handoff with design teams.
+
+---
+
 
 ### 📌 Highlighted Projects
 - 🔹 **[BartaLap – Real-Time Chat App](https://github.com/NasimReja077/Barta-LAP-ChatApp)**  
