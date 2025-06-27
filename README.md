@@ -20,20 +20,20 @@ I’m a driven Full-Stack Web Developer and freelancer, mastering the MERN stack
 - 📫 **Reach Out**: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)
 - 📄 **Resume**: [Download Here](https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing)
 - ⚡ **Fun Fact**: I transform ☕ into elegant, problem-solving code!
-- ⏰ **Last Refreshed**: 11:37 PM IST, Friday, June 27, 2025
+- ⏰ **Last Refreshed**: 11:39 PM IST, Friday, June 27, 2025
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nasim-reja-mondal-404141225/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:rejanasim611@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
   <a href="https://github.com/NasimReja077">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
 </p>
 
@@ -49,22 +49,22 @@ I’m a driven Full-Stack Web Developer and freelancer, mastering the MERN stack
     </tr>
     <tr>
       <td>
-        ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-        ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-        ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+        <img src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white&style=for-the-badge" alt="C" />  
+        <img src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" />  
+        <img src="https://img.shields.io/badge/Python-3670A0.svg?logo=python&logoColor=ffdd54&style=for-the-badge" alt="Python" />  
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
       </td>
       <td>
-        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-        ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-        ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-        ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />  
+        <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />  
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="TailwindCSS" />  
+        <img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />  
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
       </td>
       <td>
-        ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-        ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-        ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+        <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />  
+        <img src="https://img.shields.io/badge/Express.js-404D59.svg?logo=express&style=for-the-badge" alt="Express.js" />  
+        <img src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white&style=for-the-badge" alt="Flask" />
       </td>
     </tr>
     <tr>
@@ -74,20 +74,20 @@ I’m a driven Full-Stack Web Developer and freelancer, mastering the MERN stack
     </tr>
     <tr>
       <td>
-        ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-        ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-        ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />  
+        <img src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />  
+        <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" />
       </td>
       <td>
-        ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-        ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-        ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-        ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+        <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white&style=for-the-badge" alt="Git" />  
+        <img src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />  
+        <img src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />  
+        <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
       </td>
       <td>
-        ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-        ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
-        ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+        <img src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />  
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?logo=adobe-photoshop&logoColor=white&style=for-the-badge" alt="Photoshop" />  
+        <img src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=Canva&logoColor=white&style=for-the-badge" alt="Canva" />
       </td>
     </tr>
     <tr>
@@ -95,9 +95,9 @@ I’m a driven Full-Stack Web Developer and freelancer, mastering the MERN stack
     </tr>
     <tr>
       <td colspan="3">
-        ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-        ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-        ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge&logo=artificial-intelligence)
+        <img src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />  
+        <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />  
+        <img src="https://img.shields.io/badge/Generative_AI-FF6F61.svg?logo=artificial-intelligence&style=for-the-badge" alt="Generative AI" />
       </td>
     </tr>
   </table>
