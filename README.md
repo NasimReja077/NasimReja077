@@ -281,17 +281,28 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 <p align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em> – <strong>Cory House</strong></p>
 
 ---
+---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NasimReja077&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="48%" alt="Nasim's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasimReja077&layout=compact&theme=github_dark&langs_count=8" width="48%" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NasimReja077&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false" width="48%" alt="Nasim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasimReja077&layout=compact&theme=github_dark&langs_count=8&hide_border=false" width="48%" alt="Top Languages Used" />
 </p>
 
 ---
 
-### 👾 Contribution Timeline
+### 🏆 GitHub Trophies & Streak Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NasimReja077&theme=matrix&no-frame=true&row=1&margin-w=15&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" width="95%" alt="GitHub Trophies" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NasimReja077&theme=dark&hide_border=false&border_radius=10" width="60%" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎮 Contribution Timeline (Pacman Style)
 
 <p align="center">
   <picture>
@@ -303,60 +314,61 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 
 ---
 
-### 📈 Visitor Insights
+### 📆 Yearly GitHub Contributions Calendar
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NasimReja077/count.svg?label=Visitors&color=0e75b6&style=flat-square" alt="Profile Visitor Counter" />
+  <img src="https://ghchart.rshah.org/0e75b6/NasimReja077" alt="GitHub Contribution Chart" />
 </p>
 
 ---
 
-### 💬 Thought of the Day
+### 📈 Visitor Analytics
 
-<p align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em> – <strong>Cory House</strong></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/NasimReja077/count.svg?label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Counter" />
+</p>
 
 ---
 
+### 💡 Thought of the Day
+
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em><br/>
+  — <strong>Cory House</strong>
+</p>
+
+---
 
 ### 🎯 Career Vision
-I aspire to harness my full-stack expertise to design transformative, user-centric applications. My ambitions include contributing to open-source ecosystems, collaborating with innovative teams, and evolving as an SDE in a tech-forward environment.
+
+As a passionate Full-Stack Developer, I aim to build impactful, scalable, and user-first applications that solve real-world problems. My long-term vision includes contributing meaningfully to open-source communities, innovating with cutting-edge technologies, and evolving as a dynamic Software Development Engineer (SDE) in a forward-thinking organization.
 
 ---
 
 ### 📝 Looking Ahead
-- ✨ **Dive Deeper**: Explore my [GitHub Repositories](https://github.com/NasimReja077?tab=repositories) for a full project portfolio.
-- 📅 **What’s Coming**: Anticipate new skills and projects in my next profile update!
-- 🤝 **Collaborate**: I’m open to connecting with mentors, peers, or hiring managers—let’s build something great together!
+
+- 🔍 **Explore My Work**: Browse my [GitHub Repositories](https://github.com/NasimReja077?tab=repositories) for real-world projects, prototypes, and ongoing work.
+- 🛠️ **What's Next**: Expanding into **Next.js**, **TypeScript**, **Docker**, and **Generative AI** – stay tuned for exciting new additions!
+- 🤝 **Open for Collaboration**: Actively seeking mentorship, full-time opportunities, and impactful collaborations. Let's connect and build the future together.
 
 ---
 
-### 🛠️ Skill Spotlight (Icons)
-<div align="left">
+### 🛠️ Skill Spotlight
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+</p>
 
 ---
