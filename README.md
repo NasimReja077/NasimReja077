@@ -230,33 +230,58 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 
 ---
 
-
-
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NasimReja077&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasimReja077&layout=compact&theme=dark&hide_border=false" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NasimReja077&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasimReja077&layout=compact&theme=github_dark&langs_count=8" width="48%" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Streak Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NasimReja077&theme=github-dark-blue&hide_border=false" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NasimReja077&theme=algolia&no-frame=true&margin-w=10&rank=SECRET,SSS,AAA,AA,A,B,C" width="48%" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 👾 Contribution Timeline
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph.svg">
-    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
   </picture>
 </p>
 
 ---
 
-### 📈 Visitor Insights
+### ⏳ GitHub Contribution Calendar
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NasimReja077/count.svg?label=Visitors&color=0e75b6" alt="Visitor Counter" />
+  <img src="https://ghchart.rshah.org/0e75b6/NasimReja077" alt="GitHub Contribution Chart" />
 </p>
 
 ---
+
+### 📈 Visitor Insights
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/NasimReja077/count.svg?label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Counter" />
+</p>
+
+---
+
+### 💬 Thought of the Day
+
+<p align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em> – <strong>Cory House</strong></p>
+
+---
+
 
 ### 💡 Thought of the Day
 > "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
