@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasim Reja Mondal</h1>
-<h3 align="center">🚀 Passionate Full-Stack MERN Developer | Open to Full-Time SDE Opportunities</h3>
+<h3 align="center">🚀 Passionate Full-Stack MERN Developer | Seeking Full-Time SDE Opportunities</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nasimreja077&label=Profile%20views&color=0e75b6&style=flat" alt="nasimreja077" />
@@ -8,14 +8,15 @@
 ---
 
 ### 🧑‍💻 About Me
-I’m a highly motivated Full-Stack Web Developer specializing in the MERN stack. I build scalable, secure, and production-grade applications, and I’m constantly exploring new tech like Docker and Generative AI.
+I’m a highly motivated Full-Stack Web Developer specializing in the MERN stack, with a focus on building secure, scalable, and production-grade applications. I’m eager to grow as a Software Development Engineer (SDE) and am constantly exploring cutting-edge technologies.
 
-- 🔭 Currently working on: **Real-time Chat Apps, E-Commerce Platforms, AI Projects**
-- 🌱 Learning: **Next.js, Angular.js, TypeScript, Docker, Generative AI**
-- 💬 Ask me about: **React.js, Node.js, MongoDB, Python, Java, Flask, REST APIs**
-- 📫 Reach me at: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)
-- 📄 [View My Resume](https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing)
-- ⚡ Fun fact: I convert ☕ into code and love solving real-world problems!
+- 🔭 **Currently working on**: Real-time Chat Apps, E-Commerce Platforms, and AI-Powered Solutions
+- 🌱 **Learning**: Next.js, Angular.js, TypeScript, Docker, Generative AI
+- 💬 **Ask me about**: React.js, Node.js, MongoDB, Python, Java, Flask, REST APIs
+- 📫 **Reach me at**: [rejanasim611@gmail.com](mailto:rejanasim611@gmail.com)
+- 📄 **View My Resume**: [Download Here](https://drive.google.com/file/d/1szmkwabIxiW9kpXbzQrS0Y5CBo27mbBO/view?usp=sharing)
+- ⚡ **Fun fact**: I turn ☕ into code and thrive on solving real-world challenges!
+- ⏰ **Last updated**: 11:06 PM IST, Friday, June 27, 2025
 
 ---
 
@@ -27,98 +28,100 @@ I’m a highly motivated Full-Stack Web Developer specializing in the MERN stack
 ---
 
 ### 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next_JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-1B1F24?style=for-the-badge&logo=astro&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+- **Languages**: 
+  - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- **Frontend**: 
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+- **Backend**: 
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  - ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- **Databases**: 
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- **Tools & Platforms**: 
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  - ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- **Learning**: Next.js, Angular.js, Generative AI
 
 ---
 
 ### 🚀 Projects
 
 #### 🗨️ [BartaLap – Real-Time Chat App](https://github.com/NasimReja077/Barta-LAP-ChatApp)
-> A secure 1:1 chat app with JWT auth, image upload (Cloudinary), message status (seen/unseen), and profile management.
-- **Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io, Zustand, Tailwind CSS
+- A secure 1:1 chat application with JWT authentication, image uploads (via Cloudinary), message status tracking (seen/unseen), and user profile management.
+- **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Socket.io, Zustand, Tailwind CSS
+- **Status**: Completed
 
 #### 🤖 [Fitness Chatbot](https://github.com/NasimReja077/ChatBot)
-> AI-powered chatbot using Flask + NLTK providing intelligent fitness tips with 95% query accuracy.
-- **Presented at:** 13th ICCET 2025 (with Samarkand State University)
-- **Stack:** Python, Flask, PyTorch, NLTK, HTML, CSS
+- An AI-powered chatbot leveraging Flask and NLTK, delivering fitness tips with 95% query accuracy.
+- **Presented at**: 13th ICCET 2025 (in collaboration with Samarkand State University)
+- **Tech Stack**: Python, Flask, NLTK, PyTorch, HTML, CSS
+- **Status**: Completed
 
 #### 🛒 [E-Bharat – Advanced E-commerce Platform](https://github.com/NasimReja077/E-Commerce-Store)
-> Full-featured e-store with cart, Razorpay checkout, Firebase auth, filtering, and responsive design.
-- **Stack:** React.js, Tailwind CSS, Redux Toolkit, Razorpay, Firebase
+- A robust e-commerce solution featuring product filtering, dynamic cart management, Razorpay integration, and Firebase authentication.
+- **Tech Stack**: React.js, Tailwind CSS, Redux Toolkit, Razorpay, Firebase
+- **Status**: In Progress
 
 #### 💱 [Currency Converter API](https://github.com/NasimReja077/Currency-Converter)
-> Real-time exchange rates using Flask API
-- **Stack:** Flask, Python
+- A Flask-based API providing real-time currency exchange rates.
+- **Tech Stack**: Flask, Python
+- **Status**: In Progress
 
 ---
 
 ### 💼 Work Experience
 
-**Java Developer Intern**  
-*Plasmid Innovation | Remote | May 2024 – July 2024*  
-- Developed backend modules using Core Java.
-- Improved modularity and debugging efficiency with clean architecture practices.
+- **Java Developer Intern**  
+  *Plasmid Innovation | Remote | May 2024 – July 2024*  
+  - Designed and implemented backend modules using Core Java, enhancing code modularity and performance.
+  - Optimized development workflows by applying clean architecture principles.
 
-**Frontend Developer Intern – React.js**  
-*Celebal Technologies Pvt. Ltd. | Remote | May 2024 – July 2024*  
-- Built production-ready apps including a Spotify clone and e-commerce project.
-- Integrated Razorpay, applied Redux Toolkit, and followed agile workflows.
+- **Frontend Developer Intern – React.js**  
+  *Celebal Technologies Pvt. Ltd. | Remote | May 2024 – July 2024*  
+  - Developed scalable React applications, including a Spotify clone and an e-commerce platform.
+  - Integrated Razorpay payment gateway and utilized Redux Toolkit for state management.
+  - Collaborated in agile teams, improving project delivery efficiency.
 
 ---
 
 ### 🏆 Achievements
-- 🥇 **Top Performer** at Celebal Technologies Internship (React.js)
-- 📜 **Paper Presented** at 13th ICCET: “HEALTHGUIDE: A FITNESS CHATBOT WITH NLP”
-- 📚 **NPTEL Elite Certificate** – IoT & Industry 4.0 (IIT Kharagpur)
-- 🎓 Ranked among top performers during B.C.A. at MAKAUT
+- 🥇 **Top Performer** at Celebal Technologies Internship for React.js excellence.
+- 📜 **Presented Paper** at 13th ICCET 2025: “HEALTHGUIDE: A FITNESS CHATBOT WITH NLP” (with Samarkand State University).
+- 📚 **NPTEL Elite Certificate** in IoT & Industry 4.0 from IIT Kharagpur.
+- 🎓 **Top Performer** in B.C.A. at MAKAUT, ranking among the best graduates.
 
 ---
 
 ### 📚 Education
 
-**🎓 Master of Computer Applications (M.C.A.)**  
-*Techno Main Salt Lake, MAKAUT*  
-*2023 – 2025 | CGPA: 6.68/10 (Expected)*
+- **🎓 Master of Computer Applications (M.C.A.)**  
+  *Techno Main Salt Lake, MAKAUT*  
+  *2023 – 2025 | CGPA: 6.68/10 (Expected)*
 
-**🎓 Bachelor of Computer Applications (B.C.A.)**  
-*Techno India, MAKAUT*  
-*2020 – 2023 | CGPA: 8.70/10*
+- **🎓 Bachelor of Computer Applications (B.C.A.)**  
+  *Techno India, MAKAUT*  
+  *2020 – 2023 | CGPA: 8.70/10*
 
-**📘 Higher Secondary (PCM)**  
-*Hindu School, WBCHSE | 61.40%*
+- **📘 Higher Secondary (12th - PCM)**  
+  *Hindu School, WBCHSE*  
+  *2019 – 2020 | 61.40%*
 
-**📗 Secondary Education (10th)**  
-*Modern School, WBBSE | 59.57%*
+- **📗 Secondary Education (10th)**  
+  *Modern School, WBBSE*  
+  *2017 – 2018 | 59.57%*
 
 ---
 
@@ -138,7 +141,7 @@ I’m a highly motivated Full-Stack Web Developer specializing in the MERN stack
 ---
 
 ### 🧭 Career Aspiration
-To use my full-stack development skills to craft impactful, user-centric solutions while contributing to open-source, tech communities, and forward-thinking companies.
+I aspire to harness my full-stack expertise to develop innovative, user-focused applications. My goals include contributing to open-source projects, collaborating with dynamic teams, and driving technological advancements at forward-thinking companies.
 
 ---
 
@@ -149,4 +152,8 @@ To use my full-stack development skills to craft impactful, user-centric solutio
 
 ---
 
-<!-- Last updated: June 27, 2025 -->
+### 📝 Notes
+- This profile is auto-updated. Check back for the latest skills and projects!
+- Explore my [GitHub Repositories](https://github.com/NasimReja077?tab=repositories) for more.
+
+---
