@@ -163,7 +163,7 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 ---
 
 #### 💻 Frontend Developer Intern (React.js)  
-**Celebal Technologies Pvt. Ltd.** — *Remote | May 2024 – July 2024*  
+**Celebal Technologies Pvt. Ltd.** — *Remote | July 2024 – September 2024*  
 - 🚀 Engineered highly scalable and responsive web apps, including a **Spotify Clone** and a **feature-rich e-commerce platform** using **React.js**, **Tailwind CSS**, and **Redux Toolkit**.
 - 💳 Integrated **Razorpay Payment Gateway**, enabling seamless and secure checkout functionality across platforms.
 - 🧠 Leveraged **Zustand** and **Redux** to manage complex app states, improving app performance and reducing render cycles.
@@ -243,85 +243,10 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NasimReja077&theme=github-dark-blue&hide_border=false" width="48%" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=NasimReja077&theme=algolia&no-frame=true&margin-w=10&rank=SECRET,SSS,AAA,AA,A,B,C" width="48%" alt="GitHub Trophies" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=NasimReja077&theme=algolia&no-frame=true&margin-w=10&rank=SECRET,SSS,AAA,AA,A,B,C" width="48%" alt="GitHub Trophies" /> -->
 </p>
 
 ---
-
-### 👾 Contribution Timeline
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
-  </picture>
-</p>
-
----
-
-### ⏳ GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/NasimReja077" alt="GitHub Contribution Chart" />
-</p>
-
----
-
-### 📈 Visitor Insights
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/NasimReja077/count.svg?label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Counter" />
-</p>
-
----
-
-### 💬 Thought of the Day
-
-<p align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em> – <strong>Cory House</strong></p>
-
----
----
-
-### 📊 GitHub Analytics & Activity Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NasimReja077&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false" width="48%" alt="Nasim's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasimReja077&layout=compact&theme=github_dark&langs_count=8&hide_border=false" width="48%" alt="Top Languages Used" />
-</p>
-
----
-
-### 🏆 GitHub Trophies & Streak Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NasimReja077&theme=matrix&no-frame=true&row=1&margin-w=15&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" width="95%" alt="GitHub Trophies" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NasimReja077&theme=dark&hide_border=false&border_radius=10" width="60%" alt="GitHub Streak" />
-</p>
-
----
-
-### 🎮 Contribution Timeline (Pacman Style)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/NasimReja077/NasimReja077/master/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
-  </picture>
-</p>
-
----
-
-### 📆 Yearly GitHub Contributions Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/NasimReja077" alt="GitHub Contribution Chart" />
-</p>
-
----
-
 ### 📈 Visitor Analytics
 
 <p align="center">
@@ -360,11 +285,8 @@ As a passionate Full-Stack Developer, I aim to build impactful, scalable, and us
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
