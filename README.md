@@ -233,10 +233,9 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NasimReja077&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasimReja077&layout=compact&theme=dark&hide_border=true" width="48%" />
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NasimReja077&show_icons=true&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=NasimReja077&theme=tokyonight)
 </p>
-
 ---
 
 ### 🔥 Streak Stats & Trophies
