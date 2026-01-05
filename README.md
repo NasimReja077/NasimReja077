@@ -233,8 +233,8 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NasimReja077&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasimReja077&layout=compact&theme=github_dark&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NasimReja077&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasimReja077&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -242,14 +242,7 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 ### 🔥 Streak Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NasimReja077&theme=github-dark-blue&hide_border=false" width="48%" alt="GitHub Streak" />
-</p>
-
----
-### 📈 Visitor Analytics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NasimReja077&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Counter" />
+  <img src="https://streak-stats.demolab.com?user=NasimReja077&theme=dark&hide_border=true" />
 </p>
 
 ---
