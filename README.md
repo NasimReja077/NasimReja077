@@ -243,14 +243,13 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NasimReja077&theme=github-dark-blue&hide_border=false" width="48%" alt="GitHub Streak" />
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=NasimReja077&theme=algolia&no-frame=true&margin-w=10&rank=SECRET,SSS,AAA,AA,A,B,C" width="48%" alt="GitHub Trophies" /> -->
 </p>
 
 ---
 ### 📈 Visitor Analytics
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NasimReja077/count.svg?label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=NasimReja077&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Counter" />
 </p>
 
 ---
