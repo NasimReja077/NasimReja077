@@ -22,11 +22,164 @@ I'm **Nasim Reja Mondal**, a passionate and performance-driven **Full-Stack MERN
 - 👨‍💻 Self-motivated learner with experience in **remote internships**, Agile teams, and open-source collaboration  
 - 🏆 Recognized as a **Top Performer** at Celebal Tech React Internship
 
-🚧 **Currently Building**  
-- Real-Time Chat Applications (MERN + Socket.io)  
-- Full-Stack E-Commerce & Booking Platforms with secure payment integration  
-- AI-based tools like **Fitness Chatbot using NLP (Flask + NLTK)**  
+---
 
+## 🎯 Currently Building
+
+### 🌟 Featured Project: BlogApp - Full-Stack Blogging Platform
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
+</div>
+
+**BlogApp** is a modern, feature-rich blogging platform that empowers writers to share their stories and connect with readers worldwide. Built with the MERN stack, it delivers a seamless content creation experience with enterprise-grade features.
+
+#### ✨ Key Features
+
+**For Writers & Content Creators:**
+- 📝 **Rich Text Editor** - Write with ease using TinyMCE with Markdown support
+- 🎨 **Visual & Code Modes** - Toggle between WYSIWYG and Markdown editing
+- 🖼️ **Media Management** - Upload and manage thumbnails and content images via Cloudinary
+- 📊 **Draft System** - Save work in progress and publish when ready
+- 🏷️ **Categorization** - Organize content with categories and tags
+- 📈 **Analytics Dashboard** - Track views, likes, comments, and shares
+
+**For Readers & Community:**
+- 💬 **Nested Comments** - Engage in threaded discussions
+- 👍 **Interactive Engagement** - Like posts and comments
+- 🔍 **Advanced Search** - Filter by category, tags, author, and popularity
+- 👤 **User Profiles** - Customizable profiles with avatars and cover images
+- 📱 **Responsive Design** - Seamless experience across all devices
+
+**Security & Authentication:**
+- 🔐 **JWT Authentication** - Secure, token-based authentication with HTTP-only cookies
+- ✉️ **Email Verification** - OTP-based account verification via Nodemailer
+- 🔑 **Password Recovery** - Secure password reset with email tokens
+- 🛡️ **Data Protection** - Input validation, rate limiting, and XSS protection via Helmet
+
+**Performance & Scalability:**
+- ⚡ **Optimized Backend** - Express.js with efficient MongoDB queries and indexing
+- 🔄 **State Management** - Redux Toolkit for predictable state updates
+- 📦 **Code Splitting** - Lazy loading for optimal bundle size
+- 🚀 **CDN Integration** - Fast media delivery via Cloudinary
+- 📊 **Pagination** - Efficient data loading for better performance
+
+#### 🛠️ Technical Architecture
+
+**Frontend:**
+- **React.js** - Component-based UI with hooks
+- **Redux Toolkit** - Centralized state management
+- **React Hook Form** + **Zod** - Type-safe form validation
+- **TinyMCE** + **md-editor-rt** - Dual-mode rich text editing
+- **Tailwind CSS** + **DaisyUI** - Modern, utility-first styling
+- **React Router DOM** - Client-side routing with protected routes
+- **Axios** - HTTP client with interceptors
+
+**Backend:**
+- **Node.js** + **Express.js** - RESTful API server
+- **MongoDB** + **Mongoose** - NoSQL database with ODM
+- **JWT** - Stateless authentication
+- **Nodemailer** - Email service integration
+- **Cloudinary** - Cloud-based media storage
+- **Multer** - Multipart form data handling
+- **Helmet** - Security headers
+- **Express Rate Limit** - API rate limiting
+- **Joi** - Server-side validation
+
+**DevOps & Tools:**
+- **Vite** - Lightning-fast build tool
+- **Git** - Version control
+- **Postman** - API testing
+- **Nodemon** - Auto-reload during development
+- **Prettier** - Code formatting
+
+#### 📁 Project Structure
+
+```
+MERN-BLOG-APP/
+├── Backend/
+│   ├── src/
+│   │   ├── config/         # Configuration files
+│   │   ├── controllers/    # Request handlers
+│   │   ├── models/         # MongoDB schemas
+│   │   ├── routes/         # API routes
+│   │   ├── middleware/     # Custom middleware
+│   │   ├── mailer/         # Email templates
+│   │   └── utils/          # Helper functions
+│   └── public/uploads/     # Temporary file storage
+└── Frontend/
+    ├── src/
+    │   ├── api/            # API client
+    │   ├── components/     # Reusable components
+    │   ├── pages/          # Route pages
+    │   ├── store/          # Redux store
+    │   ├── hooks/          # Custom React hooks
+    │   └── utils/          # Utility functions
+    └── public/             # Static assets
+```
+
+#### 🎨 Design Highlights
+
+- **Modern UI/UX** - Clean, intuitive interface with smooth transitions
+- **Dark/Light Mode Ready** - Theme-aware components
+- **Accessibility** - WCAG-compliant design patterns
+- **Mobile-First** - Responsive layouts for all screen sizes
+
+#### 🔗 Live Demo & Repository
+
+- 🌐 **Live Demo**: [Coming Soon]
+- 📂 **Repository**: [github.com/NasimReja077/MERN-BLOG-APP](https://github.com/NasimReja077/MERN-BLOG-APP)
+- 📖 **Documentation**: Available in repository
+
+---
+
+### 🔥 Other Active Projects
+
+- **💬 BartaLap** - Real-time chat application with Socket.io ([Live Demo](https://barta-lap-chatapp.onrender.com/))
+- **🛒 E-Bharat** - Scalable e-commerce platform with payment integration
+- **🤖 Fitness Chatbot** - AI-powered health assistant using NLP (Flask + NLTK)
+
+---
+
+## 📚 Learning Path 2025
+
+<div align="center">
+
+| Technology | Status | Priority |
+|------------|--------|----------|
+| 🔷 Next.js & TypeScript | 🟡 In Progress | High |
+| 🤖 Generative AI APIs & LLM Integration | 🟡 In Progress | High |
+| 🐳 Docker & Kubernetes | 🔴 Planned | Medium |
+| ☁️ AWS/Azure Cloud Services | 🔴 Planned | Medium |
+| 📱 React Native | 🔴 Planned | Low |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nasim-reja-mondal-404141225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rejanasim611@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/NasimReja077" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/NasimRejaMondal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://drive.google.com/file/d/1Bl37exU4vs0ORr9MLLPP0v5IQb2n3SCQ/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%2300C853.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+---
 🚀 **Actively Learning**  
 - 🔷 Next.js, TypeScript, Docker  
 - 🤖 Generative AI APIs, LLM Integration  
