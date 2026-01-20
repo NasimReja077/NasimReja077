@@ -238,14 +238,8 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 </p>
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NasimReja077&show_icons=true&theme=tokyonight)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=NasimReja077&theme=tokyonight)
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=NasimReja077&theme=tokyonight" alt="GitHub Streak" width="60%" />
   <img src="[https://github-readme-stats-fast.vercel.app/api/streak?username=NasimReja077&theme=tokyonight](https://github-readme-stats-fast.vercel.app/api?username=NasimReja077&show_icons=true&theme=tokyonight)" alt="GitHub Streak" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NasimReja077&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
 <p align="center">
@@ -255,6 +249,10 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 ---
 
 ### 🔥 Streak Stats & Trophies
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NasimReja077&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NasimReja077&theme=dark&hide_border=true" />
