@@ -160,7 +160,7 @@ MERN-BLOG-APP/
 ---
 
 💬 **Let's Talk About**  
-`React.js` • `Node.js` • `MongoDB` • `Express.js` • `JWT` • `Python` • `Java` • `REST APIs` • `Firebase` • `Flask`
+`React.js` • `Node.js` • `MongoDB` • `Express.js` • `JWT` • `Python` • `Java` • `REST APIs` • `Firebase` • `Flask` • `LLM` • `GEN AI`
 
 ⚡ **Fun Fact**  
 I turn ☕ into structured, scalable, and clean code — and I love debugging more than bugs love hiding.
