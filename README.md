@@ -14,7 +14,7 @@
 ---
 ### 💡 About Me
 
-I'm **Nasim Reja Mondal**, a passionate and performance-driven **Full-Stack MERN Developer** with a solid foundation in computer science and real-world experience from internships at **Celebal Technologies** and **Plasmid Innovation**. As a **fresher**, I’m actively seeking a **full-time Software Development Engineer (SDE)** role where I can contribute meaningfully, grow alongside a talented team, and build impactful applications.
+I'm **Nasim Reja**, a passionate and performance-driven **Full-Stack MERN Developer** with a solid foundation in computer science and real-world experience from internships at **Celebal Technologies** and **Plasmid Innovation**. As a **fresher**, I’m actively seeking a **full-time Software Development Engineer (SDE)** role where I can contribute meaningfully, grow alongside a talented team, and build impactful applications.
 
 💼 **Professional Summary**  
 - 🧠 Strong grasp of **MERN Stack** and software engineering principles  
@@ -417,12 +417,12 @@ As a passionate Full-Stack Developer, I aim to build impactful, scalable, and us
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" /> -->
 </p>
 
 ---
