@@ -397,17 +397,17 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 ---
 
 ### 🎯 Career Vision
-
+<!--
 As a passionate Full-Stack Developer, I aim to build impactful, scalable, and user-first applications that solve real-world problems. My long-term vision includes contributing meaningfully to open-source communities, innovating with cutting-edge technologies, and evolving as a dynamic Software Development Engineer (SDE) in a forward-thinking organization.
-
+-->
 ---
 
 ### 📝 Looking Ahead
-
+<!--
 - 🔍 **Explore My Work**: Browse my [GitHub Repositories](https://github.com/NasimReja077?tab=repositories) for real-world projects, prototypes, and ongoing work.
 - 🛠️ **What's Next**: Expanding into **Next.js**, **TypeScript**, **Docker**, and **Generative AI** – stay tuned for exciting new additions!
 - 🤝 **Open for Collaboration**: Actively seeking mentorship, full-time opportunities, and impactful collaborations. Let's connect and build the future together.
-
+-->
 ---
 
 ### 🛠️ Skill Spotlight
