@@ -345,7 +345,7 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 ---
 
 ### 🏅 Accolades
-
+<!--
 - 🥇 **Top Performing Intern – React.js**, Celebal Technologies  
   Recognized for consistent performance, rapid skill adoption, and delivering production-grade frontend solutions during a high-impact React.js internship.
 
@@ -354,7 +354,7 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 
 - 📜 **NPTEL Elite Certification – IoT & Industry 4.0**  
   Awarded by **IIT Kharagpur**, highlighting excellence in understanding industrial automation, smart systems, and connected technologies in modern industries.
-
+-->
 ---
 
 ### 📊 GitHub Analytics
