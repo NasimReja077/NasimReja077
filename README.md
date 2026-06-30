@@ -304,7 +304,7 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 ### 📌 Highlighted Projects
 
 #### 🔹 [BartaLap – Real-Time Chat App](https://github.com/NasimReja077/Barta-LAP-ChatApp) · [🌐 Live Demo](https://barta-lap-chatapp.onrender.com/)
-> 💬 A fully functional 1-on-1 real-time messaging platform built with the **MERN stack**, enabling users to chat securely, share media, and stay connected.
+<!-- > 💬 A fully functional 1-on-1 real-time messaging platform built with the **MERN stack**, enabling users to chat securely, share media, and stay connected.
 
 - 🔐 Implements **JWT-based authentication**, user onboarding, and secure routing
 - 📷 Integrates **Cloudinary** for smooth image and media uploads
@@ -341,7 +341,7 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 
 **Tech Stack**: React.js, Tailwind CSS, Redux Toolkit, Firebase, Razorpay  
 **Status**: 🚧 In Progress | MVP Functional
-
+-->
 ---
 
 ### 🏅 Accolades
