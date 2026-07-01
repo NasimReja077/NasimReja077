@@ -291,14 +291,14 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 
 #### 💻 Frontend Developer Intern (React.js)  
 **Celebal Technologies Pvt. Ltd.** — *Remote | July 2024 – September 2024*  
-- 🚀 Engineered highly scalable and responsive web apps, including a **Spotify Clone** and a **feature-rich e-commerce platform** using **React.js**, **Tailwind CSS**, and **Redux Toolkit**.
+<!-- - 🚀 Engineered highly scalable and responsive web apps, including a **Spotify Clone** and a **feature-rich e-commerce platform** using **React.js**, **Tailwind CSS**, and **Redux Toolkit**.
 - 💳 Integrated **Razorpay Payment Gateway**, enabling seamless and secure checkout functionality across platforms.
 - 🧠 Leveraged **Zustand** and **Redux** to manage complex app states, improving app performance and reducing render cycles.
 - 🧪 Wrote reusable components and maintained **clean code architecture**, ensuring faster onboarding for team members and better testing coverage.
 - 📊 Used **Postman** and **RESTful APIs** to test and debug API endpoints, ensuring end-to-end functionality.
 - 🏅 Recognized as a **Top Performing Intern** for consistent contributions, fast learning, and initiative in solving frontend issues ahead of deadlines.
 - 📈 Contributed to **20% faster sprint deliveries** by streamlining UI workflows and improving developer handoff with design teams.
-
+-->
 ---
 
 ### 📌 Highlighted Projects
