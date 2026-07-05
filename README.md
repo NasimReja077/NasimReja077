@@ -261,7 +261,7 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
       <img src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&style=for-the-badge" alt="Notion" />
     </td>
   </tr>
-
+<!--
   <tr>
     <th colspan="3"><strong>🚧 Currently Learning</strong></th>
   </tr>
@@ -271,7 +271,7 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
       <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Generative_AI-FF6F61.svg?logo=openai&style=for-the-badge" alt="Generative AI" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 </div>
@@ -279,14 +279,14 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 ---
 
 ### 💼 Professional Milestones
-
+<!--
 #### 🧩 Java Developer Intern  
 **Plasmid Innovation** — *Remote | May 2024 – July 2024*  
 - 🔨 Developed and optimized **core backend modules** using **Core Java**, leading to a measurable **15% improvement in system response times**.
 - 💡 Refactored legacy codebases by applying **OOP design patterns** (such as Singleton & Factory), increasing code **readability and reusability**.
 - 🛠️ Collaborated with senior developers to implement **modular services** in a layered architecture, enhancing long-term maintainability.
 - 🔄 Participated in **agile sprint planning, daily stand-ups, and peer code reviews**, building real-world collaboration and problem-solving skills.
-
+-->
 ---
 
 #### 💻 Frontend Developer Intern (React.js)  
