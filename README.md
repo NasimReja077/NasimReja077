@@ -121,7 +121,7 @@ MERN-BLOG-APP/
 ```
 
 #### 🎨 Design Highlights
-
+<!--
 - **Modern UI/UX** - Clean, intuitive interface with smooth transitions
 - **Dark/Light Mode Ready** - Theme-aware components
 - **Accessibility** - WCAG-compliant design patterns
@@ -134,7 +134,7 @@ MERN-BLOG-APP/
 - 📖 **Documentation**: Available in repository
 
 ---
-
+-->
 ### 🔥 Other Active Projects
 
 - **💬 BartaLap** - Real-time chat application with Socket.io ([Live Demo](https://barta-lap-chatapp.onrender.com/))
