@@ -140,9 +140,10 @@ MERN-BLOG-APP/
 - **💬 BartaLap** - Real-time chat application with Socket.io ([Live Demo](https://barta-lap-chatapp.onrender.com/))
 - **🛒 E-Bharat** - Scalable e-commerce platform with payment integration
 - **🤖 Fitness Chatbot** - AI-powered health assistant using NLP (Flask + NLTK)
+- 
 
 ---
-
+<!--
 ## 📚 Learning Path 2026
 
 <div align="center">
@@ -156,7 +157,7 @@ MERN-BLOG-APP/
 | 📱 React Native | 🔴 Planned | Low |
 
 </div>
-
+-->
 ---
 
 💬 **Let's Talk About**  
