@@ -25,7 +25,7 @@ I'm **Nasim Reja**, a passionate and performance-driven **Full-Stack MERN Develo
 ---
 
 ## 🎯 Currently Building
-
+<!--
 ### 🌟 Featured Project: BlogApp - Full-Stack Blogging Platform
 
 <div align="center">
@@ -119,7 +119,7 @@ MERN-BLOG-APP/
     │   └── utils/          # Utility functions
     └── public/             # Static assets
 ```
-
+-->
 #### 🎨 Design Highlights
 <!--
 - **Modern UI/UX** - Clean, intuitive interface with smooth transitions
