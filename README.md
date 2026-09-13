@@ -143,7 +143,7 @@ MERN-BLOG-APP/
 - 
 
 ---
-<!--
+
 ## 📚 Learning Path 2026
 
 <div align="center">
@@ -152,12 +152,12 @@ MERN-BLOG-APP/
 |------------|--------|----------|
 | 🔷 Next.js & TypeScript | 🟡 In Progress | High |
 | 🤖 Generative AI APIs & LLM Integration | 🟡 In Progress | High |
-| 🐳 Docker & Kubernetes | 🔴 Planned | Medium |
-| ☁️ AWS/Azure Cloud Services | 🔴 Planned | Medium |
+| 🐳 Docker & Kubernetes | 🔴 In Progress | Medium |
+| ☁️ AWS/Azure Cloud Services | 🔴 In Progress | Medium |
 | 📱 React Native | 🔴 Planned | Low |
 
 </div>
--->
+
 ---
 
 💬 **Let's Talk About**  
