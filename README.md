@@ -15,13 +15,13 @@
 ### 💡 About Me
 
 I'm **Nasim Reja**, a passionate and performance-driven **Full-Stack MERN Developer** with a solid foundation in computer science and real-world experience from internships at **Celebal Technologies** and **Plasmid Innovation**. As a **fresher**, I’m actively seeking a **full-time Software Development Engineer (SDE)** role where I can contribute meaningfully, grow alongside a talented team, and build impactful applications.
-
+<!--
 💼 **Professional Summary**  
 - 🧠 Strong grasp of **MERN Stack** and software engineering principles  
 - 🛠️ Built scalable applications like chat apps, e-commerce platforms & fitness bots  
 - 👨‍💻 Self-motivated learner with experience in **remote internships**, Agile teams, and open-source collaboration  
 - 🏆 Recognized as a **Top Performer** at Celebal Tech React Internship
-
+--->
 ---
 
 ## 🎯 Currently Building
