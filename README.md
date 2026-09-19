@@ -135,14 +135,14 @@ MERN-BLOG-APP/
 
 ---
 -->
+<!--
 ### 🔥 Other Active Projects
 
 - **💬 BartaLap** - Real-time chat application with Socket.io ([Live Demo](https://barta-lap-chatapp.onrender.com/))
 - **🛒 E-Bharat** - Scalable e-commerce platform with payment integration
 - **🤖 Fitness Chatbot** - AI-powered health assistant using NLP (Flask + NLTK)
 - 
-
----
+--->
 
 ## 📚 Learning Path 2026
 
