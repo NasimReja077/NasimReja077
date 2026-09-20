@@ -387,14 +387,14 @@ I turn ☕ into structured, scalable, and clean code — and I love debugging mo
 </p> -->
 
 ---
-
+<!--
 ### 💡 Thought of the Day
 
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad."</em><br/>
   — <strong>Cory House</strong>
 </p>
-
+--->
 ---
 
 ### 🎯 Career Vision
